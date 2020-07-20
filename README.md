@@ -33,8 +33,6 @@ And it will return like:
 
 
 
-
-
 > Text Decrypting
 
 ```js
@@ -53,8 +51,6 @@ And it will return it like:
 
 
 **Files**
-
-
 
 > File Encrypting
 
@@ -81,7 +77,6 @@ It will return a json string like(useful for saving/using auto-generated IV proc
 
 
 
-
 > File Decrypting
 
 Easily decrypt files with this function:
@@ -104,10 +99,6 @@ It will return a json string too:
   iv: 'f1562b6de15f7a228799bb906355c2e0'
 }
 ```
-
-
-
-
 
 
 
