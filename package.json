@@ -1,0 +1,23 @@
+{
+  "name": "f4stcrypt",
+  "githubOwner": "mycolorway",
+  "version": "1.0.0",
+  "description": "A NodeJS text and files encryptor/decryptor.",
+  "homepage": "https://github.com/F4stHosting/F4st_Crypt/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/F4stHosting/F4st_Crypt.git"
+  },
+  "author": "Baiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F4stHosting/F4st_Crypt/issues"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
