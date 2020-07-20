@@ -4,14 +4,12 @@ An NPM module (nodeJS) that uses crypto to encrypt/decrypt files and text in a r
 How to Use?
 
 You can easily use this module in some simple functions:
-
-
-
-
+<br>
+<br>
 **Text**
-
+<br>
 > Text Encrypting
-
+<br>
 ```js
 var f4cry = require("F4st_Crypt");
 var ncryptxt = f4cry.encrypt("A foo and a bar", "My Password", null, null);
@@ -30,9 +28,8 @@ And it will return like:
   iv: 'e27294577aedb2b9ff62a84a9ed23ead'
 }
 ```
-
-
-
+<br>
+<br>
 > Text Decrypting
 
 ```js
@@ -46,14 +43,14 @@ We are using encrypt text json response with "ncryptxt".
 
 And it will return it like:
 ```A foo and a bar```
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 **Files**
-
+<br>
 > File Encrypting
-
+<br>
 Easily encrypt files with this function:
 
 ```js
@@ -73,12 +70,10 @@ It will return a json string like(useful for saving/using auto-generated IV proc
   iv: 'f1562b6de15f7a228799bb906355c2e0'
 }
 ```
-
-
-
-
+<br>
+<br>
 > File Decrypting
-
+<br>
 Easily decrypt files with this function:
 
 ```js
@@ -100,11 +95,10 @@ It will return a json string too:
 }
 ```
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Note
 
 **Supported Algorithms:**
