@@ -1,7 +1,7 @@
 {
   "name": "f4st_crypt",
   "githubOwner": "f4sthosting",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A NodeJS text and files encryptor/decryptor.",
   "homepage": "https://github.com/F4stHosting/F4st_Crypt/",
   "repository": {
@@ -54,12 +54,12 @@
         "encryption",
         "crypt",
         "crypto",
-		    "security",
-		    "database",
-		    "level",
-		    "information",
-		    "databases",
-		    "dbs"
+		"security",
+		"database",
+		"level",
+		"information",
+		"databases",
+		"dbs"
   ],
   "author": "Baiano - F4st Hosting",
   "license": "MIT",
