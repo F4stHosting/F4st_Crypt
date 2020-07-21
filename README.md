@@ -7,6 +7,7 @@ An NPM module (nodeJS) that uses crypto to encrypt/decrypt files and text in a r
 <a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/npm/l/f4st_crypt.svg?logo=github" alt="NpmLicense"></a>
 <a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/" rel="nofollow"><img src="https://img.shields.io/badge/Accepting%20Commits-True-green.svg" alt="Conventional Commits"></a>
 <a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/" rel="nofollow"><img src="https://img.shields.io/github/package-json/v/f4sthosting/F4st_Crypt.svg" alt="Conventional Commits"></a>
+<a href="https://discord.gg/7kxvCse" rel="nofollow"><img src="https://img.shields.io/badge/Join%20Our%20Discord-%20-7289DA?logo=discord" alt="Discord"></a>
 
 </p>
 
