@@ -2,8 +2,9 @@
 An NPM module (nodeJS) that uses crypto to encrypt/decrypt files and text in a robust way, that does not damage the file and also in small functions.
 
 <p>
-<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://camo.githubusercontent.com/0a09a7273cf37ba531545119cbb8dc9af2cb7a40/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f666561746865722d69636f6e732e7376673f7374796c653d666c61742d737175617265" alt="npm downloads" data-canonical-src="https://img.shields.io/npm/dm/feather-icons.svg?style=flat-square" style="max-width:100%;"></a>
-<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://camo.githubusercontent.com/1a58743a36921fb0fb8d266355190930d1b08254/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f666561746865722d69636f6e732e7376673f7374796c653d666c61742d737175617265" alt="npm version" data-canonical-src="https://img.shields.io/npm/v/feather-icons.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://camo.githubusercontent.com/0a09a7273cf37ba531545119cbb8dc9af2cb7a40/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f666561746865722d69636f6e732e7376673f7374796c653d666c61742d737175617265" alt="npm downloads" data-canonical-src="https://img.shields.io/npm/dm/f4st_crypt.svg" style="max-width:100%;"></a>
+<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://camo.githubusercontent.com/1a58743a36921fb0fb8d266355190930d1b08254/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f666561746865722d69636f6e732e7376673f7374796c653d666c61742d737175617265" alt="npm version" data-canonical-src="https://img.shields.io/npm/dt/f4st_crypt.svg" style="max-width:100%;"></a>
+<a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/npm/l/f4st_crypt.svg" alt="NpmLicense"></a>
 </p>
 
 How to Use?
