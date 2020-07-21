@@ -2,10 +2,9 @@
 An NPM module (nodeJS) that uses crypto to encrypt/decrypt files and text in a robust way, that does not damage the file and also in small functions.
 
 <p>
-<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://img.shields.io/npm/v/f4st_crypt.svg?logo=npm" alt="npm downloads" style="max-width:100%;"></a>
+<a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://img.shields.io/npm/dw/f4st_crypt.svg?logo=npm" alt="npm downloads" style="max-width:100%;"></a>
 <a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://img.shields.io/npm/v/f4st_crypt.svg?logo=npm" alt="npm version" style="max-width:100%;"></a>
 <a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/npm/l/f4st_crypt.svg?logo=github" alt="NpmLicense"></a>
-<a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/" rel="nofollow"><img src="https://img.shields.io/badge/Accepting%20Commits-True-green.svg?logo=github" alt="Conventional Commits"></a>
 <a href="https://github.com/F4stHosting/F4st_Crypt/blob/master/" rel="nofollow"><img src="https://img.shields.io/badge/Accepting%20Commits-True-green.svg?logo=github" alt="Conventional Commits"></a>
 </p>
 
