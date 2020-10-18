@@ -1,7 +1,6 @@
 'use strict';
 var fs = require('fs');
 var crypto = require('crypto');
-var fodasse = crypto.randomBytes(16);
 // Text
 
 function encrypt(text, passwd, algorithm, ivt) {
