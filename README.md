@@ -1,5 +1,5 @@
 # F4st_Crypt (or F4cry)
-An NPM module (nodeJS) that uses crypto to encrypt/decrypt files and text in a robust way, that does not damage the file and also in small functions.
+A NPM module (nodeJS) that uses crypto module to encrypt files and text in a robust way, that doesn't damage your file and also does it in small functions.
 
 <p>
 <a href="https://www.npmjs.com/package/f4st_crypt" rel="nofollow"><img src="https://img.shields.io/npm/dw/f4st_crypt.svg?logo=npm" alt="npm downloads" style="max-width:100%;"></a>
